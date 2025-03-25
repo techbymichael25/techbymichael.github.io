@@ -7,3 +7,39 @@ h2 {
     text-align: center;
     font-family: Limelight;
 }
+
+article {
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+  }
+
+header {
+    text-align: center;
+    background-color: wheat;
+    background-size: cover;
+    color: green;
+    padding: 20px 0px 0px 0px;
+}
+
+.inline{
+    display: inline;
+}
+
+.white{
+    color: turquoise;
+}
+
+ul {
+    padding: 0px 10px 0px 10px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+#header-pic{
+    margin: 40px 0px 0px 0px;
+    border-color: tan;
+    border-width: 5px;
+}
